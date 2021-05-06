@@ -60,7 +60,12 @@ helloYou(name: firstName)
  */
 // write your code here
 
+func puppyName(){
+    var name = "Kitty"
+    print(name)
+    name = "doggy"
+    print(name)
+}
 
-
-
+puppyName()
 //: Click [here](https://github.com/learn-co-curriculum/swift-functionLab-lab/blob/solution/MyPlayground.playground/Pages/solution.xcplaygroundpage/Contents.swift) for a link to the solution.
